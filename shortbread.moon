@@ -2,8 +2,9 @@ SB = {}
 SB.prefix = "!"
 
 SB.hashtable = {
-  ["!github"]:  (...) -> select(1,...)\send("https://github.com/" .. select(2,...)),
-  ["!invalid"]: (...) -> select(1,...)\send("Invalid command!")
+  ["!github"]:   (...) -> select(1,...)\send("https://github.com/" .. select(2,...)),
+  ["!lovewiki"]: (...) -> select(1,...)\send("http://love2d-community.github.io/love-api/#" .. select(2,...))
+  ["!invalid"]:  (...) -> select(1,...)\send("Invalid command!")
 }
 
 SB.getCommand = (message) ->
