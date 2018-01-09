@@ -1,5 +1,5 @@
 # shortbread
-Moonscript Discord bot (with hashtables :3c)
+Just a little experiment.
 
 All commands are contained within `commands/` and follow the following structure:
 
@@ -14,7 +14,7 @@ return (server, content) ->
 ```
 and then in `shortbread.moon`
 ```moonscript
-SB.hashtable = {
+SB.commands = {
   ["myCommand"]: (...) -> require("commands.myCommand")(...),
   -- ...
 ```

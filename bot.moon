@@ -17,9 +17,9 @@ client\on 'messageCreate', (message) ->
     a = SB.getCommandArgs(message.content)
 
     -- Run our command, if it exists
-    if SB.hashtable[c]
-      SB.hashtable[c](message.channel, a)
+    if SB.commands[c]
+      SB.commands[c](message.channel, a)
     else
-      SB.hashtable["invalid"](message.channel)
+      SB.commands["invalid"](message.channel)
 
 client\run('Bot ' .. secrets.TOKEN)

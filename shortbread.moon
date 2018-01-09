@@ -1,7 +1,7 @@
 SB = {}
 SB.prefix = "!"
 
-SB.hashtable = {
+SB.commands = {
   ["echo"]:     (...) -> require("commands.echo")(...),
   ["github"]:   (...) -> require("commands.github")(...),
   ["invalid"]:  (...) -> select(1,...)\send("Invalid command!"),
