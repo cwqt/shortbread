@@ -12,6 +12,12 @@ return (server, content) ->
   message = content[n]
   server\send(message)
 ```
+and then in `shortbread.moon`
+```moonscript
+SB.hashtable = {
+  ["myCommand"]: (...) -> require("commands.myCommand")(...),
+  -- ...
+```
 
 ```bash
 moonc -t src .
