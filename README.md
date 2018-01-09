@@ -3,7 +3,7 @@ Moonscript Discord bot (with hashtables :3c)
 
 All commands are contained within `commands/` and follow the following structure:
 
-```
+```moonscript
 -- myCommand.moon
 return (server, content) ->
   -- !command arg1 arg2 arg3
@@ -13,7 +13,7 @@ return (server, content) ->
   server\send(message)
 ```
 
-```moonscript
+```bash
 moonc -t src .
 luvit src/bot.lua
 ```
