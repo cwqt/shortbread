@@ -2,10 +2,8 @@ SB = {}
 SB.prefix = "!"
 
 SB.hashtable = {
-  -- ["test"]:     (...) -> require(commands.test).run(...),
-  ["github"]:   (...) -> select(1,...)\send("https://github.com/" .. select(2,...)[1]),
-  -- ["lovewiki"]: (...) -> select(1,...)\send("http://love2d-community.github.io/love-api/#" .. select(2,...)),
-  -- ["gelbooru"]: (...) -> select(1,...)\send("https://gelbooru.com/index.php?page=post&s=list&tags=" .. select(2,...)),
+  ["echo"]:     (...) -> require("commands.echo")(...),
+  ["github"]:   (...) -> require("commands.github")(...),
   ["invalid"]:  (...) -> select(1,...)\send("Invalid command!"),
 }
 

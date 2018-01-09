@@ -102,3 +102,53 @@
 2018-01-09 09:43:03 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
 2018-01-09 09:43:03 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-3t1p)
 2018-01-09 09:43:03 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-3t1p, discord-sessions-prd-1-6)
+2018-01-09 10:15:44 | [INFO]    | Discordia 2.2.0
+2018-01-09 10:15:44 | [INFO]    | Connecting to Discord...
+2018-01-09 10:15:45 | [INFO]    | Authenticated as shortbread#9312
+2018-01-09 10:15:45 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-01-09 10:15:45 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-01-09 10:15:45 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-tzxn)
+2018-01-09 10:15:45 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-tzxn, discord-sessions-prd-1-12)
+2018-01-09 10:16:28 | [INFO]    | Discordia 2.2.0
+2018-01-09 10:16:28 | [INFO]    | Connecting to Discord...
+2018-01-09 10:16:28 | [INFO]    | Authenticated as shortbread#9312
+2018-01-09 10:16:28 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-01-09 10:16:28 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-01-09 10:16:28 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-tvdj)
+2018-01-09 10:16:28 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-tvdj, discord-sessions-prd-1-1)
+2018-01-09 10:17:01 | [INFO]    | Discordia 2.2.0
+2018-01-09 10:17:01 | [INFO]    | Connecting to Discord...
+2018-01-09 10:17:01 | [INFO]    | Authenticated as shortbread#9312
+2018-01-09 10:17:01 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-01-09 10:17:02 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-01-09 10:17:02 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-pr99)
+2018-01-09 10:17:02 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-pr99, discord-sessions-prd-1-5)
+2018-01-09 10:17:40 | [INFO]    | Discordia 2.2.0
+2018-01-09 10:17:40 | [INFO]    | Connecting to Discord...
+2018-01-09 10:17:40 | [INFO]    | Authenticated as shortbread#9312
+2018-01-09 10:17:40 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-01-09 10:17:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-01-09 10:17:41 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-6455)
+2018-01-09 10:17:41 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-6455, discord-sessions-prd-1-15)
+2018-01-09 10:20:07 | [INFO]    | Discordia 2.2.0
+2018-01-09 10:20:07 | [INFO]    | Connecting to Discord...
+2018-01-09 10:20:07 | [INFO]    | Authenticated as shortbread#9312
+2018-01-09 10:20:07 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-01-09 10:20:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-01-09 10:20:08 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-lfcn)
+2018-01-09 10:20:08 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-lfcn, discord-sessions-prd-1-7)
+2018-01-09 10:20:19 | [ERROR]   | 400 - BAD REQUEST : POST https://discordapp.com/api/v7/channels/381899316048166923/messages
+2018-01-09 10:20:47 | [INFO]    | Discordia 2.2.0
+2018-01-09 10:20:47 | [INFO]    | Connecting to Discord...
+2018-01-09 10:20:47 | [INFO]    | Authenticated as shortbread#9312
+2018-01-09 10:20:47 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-01-09 10:20:47 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-01-09 10:20:47 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-51vx)
+2018-01-09 10:20:47 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-51vx, discord-sessions-prd-1-14)
+2018-01-09 10:22:22 | [INFO]    | Discordia 2.2.0
+2018-01-09 10:22:22 | [INFO]    | Connecting to Discord...
+2018-01-09 10:22:22 | [INFO]    | Authenticated as shortbread#9312
+2018-01-09 10:22:22 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-01-09 10:22:23 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-01-09 10:22:23 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-89hh)
+2018-01-09 10:22:23 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-89hh, discord-sessions-prd-1-11)

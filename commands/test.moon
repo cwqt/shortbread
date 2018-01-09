@@ -1,4 +1,0 @@
-run = (...) ->
-  print(...)
-
-return run
