@@ -1,0 +1,4 @@
+run = (...) ->
+  print(...)
+
+return run

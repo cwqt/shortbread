@@ -5,15 +5,21 @@ SB        = require("shortbread")
 discordia = require('discordia')
 secrets   = require("secrets")
 
-
 client = discordia.Client()
-
 client\on 'ready', ->
   print('Logged in as '.. client.user.username)
 
 client\on 'messageCreate', (message) ->
-  -- Check if the first string begins with the SB.prefix, prevents infinite looping
+  -- Check if start of message is our prefix
   if string.sub(string.match(message.content, "(%S+)"), 1, string.len(SB.prefix)) == SB.prefix
-    SB.hashtable[SB.getCommand(message.content)](message.channel, SB.getValue(message.content))
+    -- Separate command from args
+    c = SB.getCommand(message.content)
+    a = SB.getCommandArgs(message.content)
+
+    -- Run our command, if it exists
+    if SB.hashtable[c]
+      SB.hashtable[c](message.channel, a)
+    else
+      SB.hashtable["invalid"](message.channel)
 
 client\run('Bot ' .. secrets.TOKEN)
