@@ -1,6 +1,6 @@
-return (...) ->
+return (server, content) ->
   sentence = ""
-  for k, arg in pairs(select(2,...)) do
+  for k, arg in pairs(content) do
     sentence = sentence .. " " .. arg
-  select(1,...)\send(sentence)
+  server\send(sentence)
 
