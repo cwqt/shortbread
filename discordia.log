@@ -393,3 +393,17 @@
 2018-02-23 23:47:35 | [ERROR]   | 400 - BAD REQUEST : POST https://discordapp.com/api/v7/channels/414047669124726807/messages
 2018-02-23 23:47:44 | [ERROR]   | 403 - FORBIDDEN : POST https://discordapp.com/api/v7/channels/414047669124726807/messages/bulk-delete
 2018-02-23 23:48:01 | [ERROR]   | 403 - FORBIDDEN : POST https://discordapp.com/api/v7/channels/414047669124726807/messages/bulk-delete
+2018-02-23 23:51:42 | [INFO]    | Discordia 2.2.0
+2018-02-23 23:51:42 | [INFO]    | Connecting to Discord...
+2018-02-23 23:51:43 | [INFO]    | Authenticated as shortbread#9312
+2018-02-23 23:51:43 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-23 23:51:43 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-23 23:51:43 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-sn1l)
+2018-02-23 23:51:43 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-sn1l, discord-sessions-prd-1-13)
+2018-02-23 23:51:55 | [ERROR]   | 403 - FORBIDDEN : POST https://discordapp.com/api/v7/channels/415993687861100546/messages/bulk-delete
+2018-02-23 23:52:00 | [ERROR]   | 400 - BAD REQUEST : GET https://discordapp.com/api/v7/channels/415993687861100546/messages?limit=1111111111111
+2018-02-23 23:52:00 | [ERROR]   | 403 - FORBIDDEN : POST https://discordapp.com/api/v7/channels/415993687861100546/messages/bulk-delete
+2018-02-23 23:52:21 | [ERROR]   | 403 - FORBIDDEN : POST https://discordapp.com/api/v7/channels/415993687861100546/messages/bulk-delete
+2018-02-23 23:52:26 | [ERROR]   | 403 - FORBIDDEN : POST https://discordapp.com/api/v7/channels/415993687861100546/messages/bulk-delete
+2018-02-23 23:52:33 | [ERROR]   | 403 - FORBIDDEN : DELETE https://discordapp.com/api/v7/channels/415993687861100546/messages/416744170959536130
+2018-02-23 23:52:38 | [ERROR]   | 403 - FORBIDDEN : POST https://discordapp.com/api/v7/channels/415993687861100546/messages/bulk-delete
