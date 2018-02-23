@@ -16,9 +16,13 @@ client\on 'messageCreate', (message) ->
     c = SB.getCommand(message.content)
     a = SB.getCommandArgs(message.content)
 
+    -- Create extra table for debugging
+    e = {}
+    e[#e+1] = os.clock()
+
     -- Run our command, if it exists
     if SB.commands[c]
-      SB.commands[c](message.channel, a)
+      SB.commands[c](message.channel, a, e)
     else
       SB.commands["invalid"](message.channel)
 

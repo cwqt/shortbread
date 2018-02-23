@@ -4,7 +4,10 @@ SB.prefix = "!"
 SB.commands = {
   ["echo"]:     (...) -> require("commands.echo")(...),
   ["github"]:   (...) -> require("commands.github")(...),
-  ["invalid"]:  (...) -> select(1,...)\send("Invalid command!"),
+  ["ping"]:     (...) -> require("commands.ping")(...),
+  ["prune"]:    (...) -> require("commands.prune")(...),
+  ["cuteboy"]:  (...) -> require("commands.cuteboy")(...)
+  ["invalid"]:  (...) -> select(1, ...)\send("Invalid command!"),
 }
 
 SB.getCommand = (message) ->
