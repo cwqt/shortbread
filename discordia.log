@@ -407,3 +407,796 @@
 2018-02-23 23:52:26 | [ERROR]   | 403 - FORBIDDEN : POST https://discordapp.com/api/v7/channels/415993687861100546/messages/bulk-delete
 2018-02-23 23:52:33 | [ERROR]   | 403 - FORBIDDEN : DELETE https://discordapp.com/api/v7/channels/415993687861100546/messages/416744170959536130
 2018-02-23 23:52:38 | [ERROR]   | 403 - FORBIDDEN : POST https://discordapp.com/api/v7/channels/415993687861100546/messages/bulk-delete
+2018-02-23 23:54:42 | [INFO]    | Discordia 2.2.0
+2018-02-23 23:54:42 | [INFO]    | Connecting to Discord...
+2018-02-23 23:54:42 | [INFO]    | Authenticated as shortbread#9312
+2018-02-23 23:54:42 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-23 23:54:43 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-23 23:54:43 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-72ph)
+2018-02-23 23:54:43 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-72ph, discord-sessions-prd-1-7)
+2018-02-23 23:54:48 | [ERROR]   | 403 - FORBIDDEN : POST https://discordapp.com/api/v7/channels/415993687861100546/messages/bulk-delete
+2018-02-23 23:55:17 | [INFO]    | Discordia 2.2.0
+2018-02-23 23:55:17 | [INFO]    | Connecting to Discord...
+2018-02-23 23:55:18 | [INFO]    | Authenticated as shortbread#9312
+2018-02-23 23:55:18 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-23 23:55:18 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-23 23:55:18 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-306h)
+2018-02-23 23:55:18 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-306h, discord-sessions-prd-1-19)
+2018-02-23 23:59:32 | [INFO]    | Discordia 2.2.0
+2018-02-23 23:59:32 | [INFO]    | Connecting to Discord...
+2018-02-23 23:59:32 | [INFO]    | Authenticated as shortbread#9312
+2018-02-23 23:59:32 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-23 23:59:32 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-23 23:59:32 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-t5fq)
+2018-02-23 23:59:32 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-t5fq, discord-sessions-prd-1-15)
+2018-02-24 00:00:09 | [INFO]    | Discordia 2.2.0
+2018-02-24 00:00:09 | [INFO]    | Connecting to Discord...
+2018-02-24 00:00:10 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 00:00:10 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 00:00:10 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 00:00:10 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-cbl7)
+2018-02-24 00:00:10 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-cbl7, discord-sessions-prd-1-16)
+2018-02-24 00:48:14 | [INFO]    | Discordia 2.2.0
+2018-02-24 00:48:14 | [INFO]    | Connecting to Discord...
+2018-02-24 00:48:15 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 00:48:15 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 00:48:15 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 00:48:15 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-3vfg)
+2018-02-24 00:48:16 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-3vfg, discord-sessions-prd-1-18)
+2018-02-24 00:48:29 | [ERROR]   | 400 - BAD REQUEST : GET https://discordapp.com/api/v7/channels/415993687861100546/messages?limit=9999999999999999999999999
+2018-02-24 00:48:29 | [ERROR]   | 403 - FORBIDDEN : POST https://discordapp.com/api/v7/channels/415993687861100546/messages/bulk-delete
+2018-02-24 00:48:33 | [ERROR]   | 403 - FORBIDDEN : POST https://discordapp.com/api/v7/channels/415993687861100546/messages/bulk-delete
+2018-02-24 00:49:00 | [ERROR]   | 400 - BAD REQUEST : GET https://discordapp.com/api/v7/channels/415993687861100546/messages?limit=179769313486231570814527423731704356798070567525844996598917476803157260780028538760589558632766878171540458953514382464234321326889464182768467546703537516986049910576551282076245490090389328944075868508455133942304583236903222948165808559332123348274797826204144723168738177180919299881250404026184124858369
+2018-02-24 00:49:01 | [ERROR]   | 403 - FORBIDDEN : POST https://discordapp.com/api/v7/channels/415993687861100546/messages/bulk-delete
+2018-02-24 00:55:03 | [INFO]    | Discordia 2.2.0
+2018-02-24 00:55:03 | [INFO]    | Connecting to Discord...
+2018-02-24 00:55:03 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 00:55:03 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 00:55:03 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 00:55:03 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-2840)
+2018-02-24 00:55:03 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-2840, discord-sessions-prd-1-18)
+2018-02-24 00:55:53 | [INFO]    | Discordia 2.2.0
+2018-02-24 00:55:53 | [INFO]    | Connecting to Discord...
+2018-02-24 00:55:54 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 00:55:54 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 00:55:54 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 00:55:54 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-pwt8)
+2018-02-24 00:55:54 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-pwt8, discord-sessions-prd-1-3)
+2018-02-24 00:56:53 | [INFO]    | Discordia 2.2.0
+2018-02-24 00:56:53 | [INFO]    | Connecting to Discord...
+2018-02-24 00:56:53 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 00:56:53 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 00:56:54 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 00:56:54 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-qrzk)
+2018-02-24 00:56:54 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-qrzk, discord-sessions-prd-1-20)
+2018-02-24 00:57:32 | [INFO]    | Discordia 2.2.0
+2018-02-24 00:57:32 | [INFO]    | Connecting to Discord...
+2018-02-24 00:57:32 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 00:57:32 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 00:57:33 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 00:57:33 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-8d8b)
+2018-02-24 00:57:33 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-8d8b, discord-sessions-prd-1-10)
+2018-02-24 01:16:57 | [INFO]    | Discordia 2.2.0
+2018-02-24 01:16:57 | [INFO]    | Connecting to Discord...
+2018-02-24 01:16:57 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 01:16:57 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 01:16:57 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 01:16:57 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-01t7)
+2018-02-24 01:16:57 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-01t7, discord-sessions-prd-1-16)
+2018-02-24 01:17:26 | [INFO]    | Discordia 2.2.0
+2018-02-24 01:17:26 | [INFO]    | Connecting to Discord...
+2018-02-24 01:17:26 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 01:17:26 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 01:17:27 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 01:17:27 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-d305)
+2018-02-24 01:17:27 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-d305, discord-sessions-prd-1-4)
+2018-02-24 01:19:09 | [INFO]    | Discordia 2.2.0
+2018-02-24 01:19:09 | [INFO]    | Connecting to Discord...
+2018-02-24 01:19:09 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 01:19:09 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 01:19:09 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 01:19:09 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-1tgc)
+2018-02-24 01:19:10 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-1tgc, discord-sessions-prd-1-13)
+2018-02-24 01:26:48 | [INFO]    | Discordia 2.2.0
+2018-02-24 01:26:48 | [INFO]    | Connecting to Discord...
+2018-02-24 01:26:49 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 01:26:49 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 01:26:49 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 01:26:49 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-srg7)
+2018-02-24 01:26:49 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-srg7, discord-sessions-prd-1-4)
+2018-02-24 01:27:22 | [INFO]    | Discordia 2.2.0
+2018-02-24 01:27:22 | [INFO]    | Connecting to Discord...
+2018-02-24 01:27:22 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 01:27:22 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 01:27:22 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 01:27:22 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-wv81)
+2018-02-24 01:27:22 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-wv81, discord-sessions-prd-1-7)
+2018-02-24 01:29:03 | [INFO]    | Discordia 2.2.0
+2018-02-24 01:29:03 | [INFO]    | Connecting to Discord...
+2018-02-24 01:29:04 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 01:29:04 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 01:29:04 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 01:29:04 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-gb45)
+2018-02-24 01:29:04 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-gb45, discord-sessions-prd-1-4)
+2018-02-24 01:29:50 | [INFO]    | Discordia 2.2.0
+2018-02-24 01:29:50 | [INFO]    | Connecting to Discord...
+2018-02-24 01:29:50 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 01:29:50 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 01:29:50 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 01:29:50 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-l3r0)
+2018-02-24 01:29:50 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-l3r0, discord-sessions-prd-1-2)
+2018-02-24 01:30:05 | [INFO]    | Discordia 2.2.0
+2018-02-24 01:30:05 | [INFO]    | Connecting to Discord...
+2018-02-24 01:30:06 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 01:30:06 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 01:30:06 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 01:30:06 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-q89h)
+2018-02-24 01:30:06 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-q89h, discord-sessions-prd-1-17)
+2018-02-24 01:30:27 | [INFO]    | Discordia 2.2.0
+2018-02-24 01:30:27 | [INFO]    | Connecting to Discord...
+2018-02-24 01:30:27 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 01:30:27 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 01:30:28 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 01:30:28 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-306h)
+2018-02-24 01:30:28 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-306h, discord-sessions-prd-1-8)
+2018-02-24 01:32:01 | [INFO]    | Discordia 2.2.0
+2018-02-24 01:32:01 | [INFO]    | Connecting to Discord...
+2018-02-24 01:32:01 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 01:32:01 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 01:32:02 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 01:32:02 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-01t7)
+2018-02-24 01:32:02 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-01t7, discord-sessions-prd-1-5)
+2018-02-24 01:32:46 | [INFO]    | Discordia 2.2.0
+2018-02-24 01:32:46 | [INFO]    | Connecting to Discord...
+2018-02-24 01:32:46 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 01:32:46 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 01:32:47 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 01:32:47 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-1hxr)
+2018-02-24 01:32:47 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-1hxr, discord-sessions-prd-1-4)
+2018-02-24 01:33:30 | [INFO]    | Discordia 2.2.0
+2018-02-24 01:33:30 | [INFO]    | Connecting to Discord...
+2018-02-24 01:33:30 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 01:33:30 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 01:33:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 01:33:30 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-t5fq)
+2018-02-24 01:33:30 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-t5fq, discord-sessions-prd-1-19)
+2018-02-24 02:30:10 | [INFO]    | Discordia 2.2.0
+2018-02-24 02:30:10 | [INFO]    | Connecting to Discord...
+2018-02-24 02:30:10 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 02:30:10 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 02:30:11 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 02:30:11 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-3jq1)
+2018-02-24 02:30:11 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-3jq1, discord-sessions-prd-1-7)
+2018-02-24 02:30:38 | [INFO]    | Discordia 2.2.0
+2018-02-24 02:30:38 | [INFO]    | Connecting to Discord...
+2018-02-24 02:30:38 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 02:30:38 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 02:30:39 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 02:30:39 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-xgft)
+2018-02-24 02:30:39 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-xgft, discord-sessions-prd-1-5)
+2018-02-24 02:31:13 | [INFO]    | Discordia 2.2.0
+2018-02-24 02:31:13 | [INFO]    | Connecting to Discord...
+2018-02-24 02:31:13 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 02:31:13 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 02:31:13 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 02:31:13 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-6m0b)
+2018-02-24 02:31:13 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-6m0b, discord-sessions-prd-1-20)
+2018-02-24 02:31:18 | [ERROR]   | 400 - BAD REQUEST : POST https://discordapp.com/api/v7/channels/381899316048166923/messages
+2018-02-24 02:31:35 | [INFO]    | Discordia 2.2.0
+2018-02-24 02:31:35 | [INFO]    | Connecting to Discord...
+2018-02-24 02:31:36 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 02:31:36 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 02:31:36 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 02:31:36 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-kv5f)
+2018-02-24 02:31:36 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-kv5f, discord-sessions-prd-1-1)
+2018-02-24 02:31:42 | [ERROR]   | 400 - BAD REQUEST : POST https://discordapp.com/api/v7/channels/381899316048166923/messages
+2018-02-24 02:32:47 | [INFO]    | Discordia 2.2.0
+2018-02-24 02:32:47 | [INFO]    | Connecting to Discord...
+2018-02-24 02:32:48 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 02:32:48 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 02:32:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 02:32:48 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-3vfg)
+2018-02-24 02:32:48 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-3vfg, discord-sessions-prd-1-17)
+2018-02-24 02:33:16 | [ERROR]   | 400 - BAD REQUEST : POST https://discordapp.com/api/v7/channels/381899316048166923/messages
+2018-02-24 02:33:47 | [INFO]    | Discordia 2.2.0
+2018-02-24 02:33:47 | [INFO]    | Connecting to Discord...
+2018-02-24 02:33:47 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 02:33:47 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 02:33:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 02:33:48 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-l3r0)
+2018-02-24 02:33:48 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-l3r0, discord-sessions-prd-1-7)
+2018-02-24 02:34:20 | [INFO]    | Discordia 2.2.0
+2018-02-24 02:34:20 | [INFO]    | Connecting to Discord...
+2018-02-24 02:34:26 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 02:34:26 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 02:34:26 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 02:34:26 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-vmtk)
+2018-02-24 02:34:26 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-vmtk, discord-sessions-prd-1-20)
+2018-02-24 02:35:19 | [ERROR]   | 403 - FORBIDDEN : POST https://discordapp.com/api/v7/channels/415993687861100546/messages/bulk-delete
+2018-02-24 02:35:52 | [INFO]    | Discordia 2.2.0
+2018-02-24 02:35:52 | [INFO]    | Connecting to Discord...
+2018-02-24 02:35:53 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 02:35:53 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 02:35:53 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 02:35:53 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-95vt)
+2018-02-24 02:35:53 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-95vt, discord-sessions-prd-1-7)
+2018-02-24 02:38:28 | [INFO]    | Discordia 2.2.0
+2018-02-24 02:38:28 | [INFO]    | Connecting to Discord...
+2018-02-24 02:38:28 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 02:38:28 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 02:38:29 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 02:38:29 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-87qx)
+2018-02-24 02:38:29 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-87qx, discord-sessions-prd-1-18)
+2018-02-24 02:39:45 | [INFO]    | Discordia 2.2.0
+2018-02-24 02:39:45 | [INFO]    | Connecting to Discord...
+2018-02-24 02:39:46 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 02:39:46 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 02:39:46 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 02:39:46 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-r6l6)
+2018-02-24 02:39:46 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-r6l6, discord-sessions-prd-1-7)
+2018-02-24 02:42:01 | [INFO]    | Discordia 2.2.0
+2018-02-24 02:42:01 | [INFO]    | Connecting to Discord...
+2018-02-24 02:42:02 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 02:42:02 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 02:42:02 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 02:42:02 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-k05l)
+2018-02-24 02:42:02 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-k05l, discord-sessions-prd-1-18)
+2018-02-24 02:44:16 | [INFO]    | Discordia 2.2.0
+2018-02-24 02:44:16 | [INFO]    | Connecting to Discord...
+2018-02-24 02:44:16 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 02:44:16 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 02:44:17 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 02:44:17 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-83qw)
+2018-02-24 02:44:17 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-83qw, discord-sessions-prd-1-16)
+2018-02-24 02:44:57 | [INFO]    | Discordia 2.2.0
+2018-02-24 02:44:57 | [INFO]    | Connecting to Discord...
+2018-02-24 02:44:57 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 02:44:57 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 02:44:58 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 02:44:58 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-cbl7)
+2018-02-24 02:44:58 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-cbl7, discord-sessions-prd-1-5)
+2018-02-24 02:45:53 | [INFO]    | Discordia 2.2.0
+2018-02-24 02:45:53 | [INFO]    | Connecting to Discord...
+2018-02-24 02:45:53 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 02:45:53 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 02:45:53 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 02:45:53 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-1tgc)
+2018-02-24 02:45:54 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-1tgc, discord-sessions-prd-1-19)
+2018-02-24 02:46:47 | [INFO]    | Discordia 2.2.0
+2018-02-24 02:46:47 | [INFO]    | Connecting to Discord...
+2018-02-24 02:46:47 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 02:46:47 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 02:46:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 02:46:48 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-7gxn)
+2018-02-24 02:46:48 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-7gxn, discord-sessions-prd-1-11)
+2018-02-24 02:49:00 | [ERROR]   | 403 - FORBIDDEN : POST https://discordapp.com/api/v7/channels/415993687861100546/messages
+2018-02-24 02:49:04 | [ERROR]   | 403 - FORBIDDEN : POST https://discordapp.com/api/v7/channels/415993687861100546/messages
+2018-02-24 02:49:04 | [ERROR]   | 403 - FORBIDDEN : POST https://discordapp.com/api/v7/channels/415993687861100546/messages
+2018-02-24 02:49:06 | [ERROR]   | 403 - FORBIDDEN : POST https://discordapp.com/api/v7/channels/415993687861100546/messages
+2018-02-24 02:49:07 | [ERROR]   | 403 - FORBIDDEN : POST https://discordapp.com/api/v7/channels/415993687861100546/messages
+2018-02-24 02:49:19 | [ERROR]   | 400 - BAD REQUEST : GET https://discordapp.com/api/v7/channels/416788494791344129/messages?limit=9999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999
+2018-02-24 02:49:20 | [ERROR]   | 403 - FORBIDDEN : POST https://discordapp.com/api/v7/channels/416788494791344129/messages/bulk-delete
+2018-02-24 02:49:28 | [ERROR]   | 400 - BAD REQUEST : GET https://discordapp.com/api/v7/channels/416788494791344129/messages?limit=9999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999
+2018-02-24 02:49:28 | [ERROR]   | 403 - FORBIDDEN : POST https://discordapp.com/api/v7/channels/416788494791344129/messages/bulk-delete
+2018-02-24 02:49:28 | [ERROR]   | 400 - BAD REQUEST : GET https://discordapp.com/api/v7/channels/416788494791344129/messages?limit=9999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999
+2018-02-24 02:49:29 | [ERROR]   | 400 - BAD REQUEST : GET https://discordapp.com/api/v7/channels/416788494791344129/messages?limit=9999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999
+2018-02-24 02:49:30 | [ERROR]   | 400 - BAD REQUEST : GET https://discordapp.com/api/v7/channels/416788494791344129/messages?limit=9999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999
+2018-02-24 02:49:30 | [ERROR]   | 400 - BAD REQUEST : GET https://discordapp.com/api/v7/channels/416788494791344129/messages?limit=9999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999
+2018-02-24 02:49:30 | [ERROR]   | 400 - BAD REQUEST : GET https://discordapp.com/api/v7/channels/416788494791344129/messages?limit=9999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999
+2018-02-24 02:49:31 | [ERROR]   | 400 - BAD REQUEST : GET https://discordapp.com/api/v7/channels/416788494791344129/messages?limit=9999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999
+2018-02-24 02:49:31 | [ERROR]   | 400 - BAD REQUEST : GET https://discordapp.com/api/v7/channels/416788494791344129/messages?limit=9999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999
+2018-02-24 02:49:32 | [ERROR]   | 400 - BAD REQUEST : GET https://discordapp.com/api/v7/channels/416788494791344129/messages?limit=9999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999
+2018-02-24 02:49:32 | [ERROR]   | 400 - BAD REQUEST : GET https://discordapp.com/api/v7/channels/416788494791344129/messages?limit=9999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999
+2018-02-24 02:49:32 | [ERROR]   | 403 - FORBIDDEN : POST https://discordapp.com/api/v7/channels/416788494791344129/messages/bulk-delete
+2018-02-24 02:49:36 | [ERROR]   | 403 - FORBIDDEN : POST https://discordapp.com/api/v7/channels/416788494791344129/messages/bulk-delete
+2018-02-24 02:54:36 | [INFO]    | Discordia 2.2.0
+2018-02-24 02:54:36 | [INFO]    | Connecting to Discord...
+2018-02-24 02:54:37 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 02:54:37 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 02:54:37 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 02:54:37 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-t5fq)
+2018-02-24 02:54:37 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-t5fq, discord-sessions-prd-1-7)
+2018-02-24 02:55:58 | [ERROR]   | 403 - FORBIDDEN : DELETE https://discordapp.com/api/v7/channels/416788494791344129/messages/416790331472871424
+2018-02-24 02:56:13 | [ERROR]   | 400 - BAD REQUEST : GET https://discordapp.com/api/v7/channels/416788494791344129/messages?limit=aaaaa
+2018-02-24 02:56:13 | [ERROR]   | 403 - FORBIDDEN : POST https://discordapp.com/api/v7/channels/416788494791344129/messages/bulk-delete
+2018-02-24 02:57:51 | [INFO]    | Discordia 2.2.0
+2018-02-24 02:57:51 | [INFO]    | Connecting to Discord...
+2018-02-24 02:57:51 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 02:57:51 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 02:57:51 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 02:57:51 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-3vfg)
+2018-02-24 02:57:52 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-3vfg, discord-sessions-prd-1-13)
+2018-02-24 17:48:05 | [INFO]    | Discordia 2.2.0
+2018-02-24 17:48:05 | [INFO]    | Connecting to Discord...
+2018-02-24 17:48:05 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 17:48:06 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 17:48:06 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 17:48:06 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-nx9n)
+2018-02-24 17:48:06 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-nx9n, discord-sessions-prd-1-1)
+2018-02-24 17:48:52 | [INFO]    | Discordia 2.2.0
+2018-02-24 17:48:52 | [INFO]    | Connecting to Discord...
+2018-02-24 17:48:53 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 17:48:53 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 17:48:53 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 17:48:53 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-2840)
+2018-02-24 17:48:53 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-2840, discord-sessions-prd-1-10)
+2018-02-24 17:51:05 | [INFO]    | Discordia 2.2.0
+2018-02-24 17:51:05 | [INFO]    | Connecting to Discord...
+2018-02-24 17:51:06 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 17:51:06 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 17:51:06 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 17:51:06 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-kw54)
+2018-02-24 17:51:06 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-kw54, discord-sessions-prd-1-2)
+2018-02-24 17:51:18 | [INFO]    | Discordia 2.2.0
+2018-02-24 17:51:18 | [INFO]    | Connecting to Discord...
+2018-02-24 17:51:18 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 17:51:18 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 17:51:18 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 17:51:18 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-t5fq)
+2018-02-24 17:51:18 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-t5fq, discord-sessions-prd-1-9)
+2018-02-24 18:14:25 | [INFO]    | Discordia 2.2.0
+2018-02-24 18:14:25 | [INFO]    | Connecting to Discord...
+2018-02-24 18:14:25 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 18:14:25 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 18:14:26 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 18:14:26 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-gngd)
+2018-02-24 18:14:27 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-gngd, discord-sessions-prd-1-12)
+2018-02-24 18:17:44 | [INFO]    | Discordia 2.2.0
+2018-02-24 18:17:44 | [INFO]    | Connecting to Discord...
+2018-02-24 18:17:45 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 18:17:45 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 18:17:45 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 18:17:45 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-1476)
+2018-02-24 18:17:45 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-1476, discord-sessions-prd-1-6)
+2018-02-24 18:18:37 | [INFO]    | Discordia 2.2.0
+2018-02-24 18:18:37 | [INFO]    | Connecting to Discord...
+2018-02-24 18:18:37 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 18:18:37 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 18:18:37 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 18:18:37 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-1tgc)
+2018-02-24 18:18:37 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-1tgc, discord-sessions-prd-1-10)
+2018-02-24 18:19:22 | [INFO]    | Discordia 2.2.0
+2018-02-24 18:19:22 | [INFO]    | Connecting to Discord...
+2018-02-24 18:19:22 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 18:19:22 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 18:19:23 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 18:19:23 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-x3nz)
+2018-02-24 18:19:23 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-x3nz, discord-sessions-prd-1-4)
+2018-02-24 18:20:23 | [INFO]    | Discordia 2.2.0
+2018-02-24 18:20:23 | [INFO]    | Connecting to Discord...
+2018-02-24 18:20:24 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 18:20:24 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 18:20:26 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 18:20:26 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-dlcf)
+2018-02-24 18:20:27 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-dlcf, discord-sessions-prd-1-16)
+2018-02-24 18:20:50 | [INFO]    | Discordia 2.2.0
+2018-02-24 18:20:50 | [INFO]    | Connecting to Discord...
+2018-02-24 18:20:50 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 18:20:50 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 18:20:50 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 18:20:50 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-7st0)
+2018-02-24 18:20:50 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-7st0, discord-sessions-prd-1-3)
+2018-02-24 18:23:05 | [INFO]    | Discordia 2.2.0
+2018-02-24 18:23:05 | [INFO]    | Connecting to Discord...
+2018-02-24 18:23:05 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 18:23:05 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 18:23:06 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 18:23:06 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-td55)
+2018-02-24 18:23:06 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-td55, discord-sessions-prd-1-7)
+2018-02-24 18:24:07 | [INFO]    | Discordia 2.2.0
+2018-02-24 18:24:07 | [INFO]    | Connecting to Discord...
+2018-02-24 18:24:07 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 18:24:07 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 18:24:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 18:24:08 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-3jq1)
+2018-02-24 18:24:08 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-3jq1, discord-sessions-prd-1-3)
+2018-02-24 18:24:15 | [ERROR]   | 403 - FORBIDDEN : DELETE https://discordapp.com/api/v7/channels/416788494791344129/messages/417023939802300417
+2018-02-24 18:25:23 | [INFO]    | Discordia 2.2.0
+2018-02-24 18:25:23 | [INFO]    | Connecting to Discord...
+2018-02-24 18:25:23 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 18:25:23 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 18:25:24 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 18:25:24 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-nx9n)
+2018-02-24 18:25:24 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-nx9n, discord-sessions-prd-1-5)
+2018-02-24 18:26:02 | [INFO]    | Discordia 2.2.0
+2018-02-24 18:26:02 | [INFO]    | Connecting to Discord...
+2018-02-24 18:26:02 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 18:26:02 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 18:26:02 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 18:26:02 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-nx9n)
+2018-02-24 18:26:02 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-nx9n, discord-sessions-prd-1-20)
+2018-02-24 18:35:11 | [INFO]    | Discordia 2.2.0
+2018-02-24 18:35:11 | [INFO]    | Connecting to Discord...
+2018-02-24 18:35:12 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 18:35:12 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 18:35:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 18:35:12 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-x3nz)
+2018-02-24 18:35:12 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-x3nz, discord-sessions-prd-1-1)
+2018-02-24 18:40:15 | [ERROR]   | 403 - FORBIDDEN : DELETE https://discordapp.com/api/v7/channels/416788494791344129/messages/417027966573477889
+2018-02-24 19:15:49 | [INFO]    | Discordia 2.2.0
+2018-02-24 19:15:49 | [INFO]    | Connecting to Discord...
+2018-02-24 19:15:49 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 19:15:49 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 19:15:50 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 19:15:50 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-95vt)
+2018-02-24 19:15:50 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-95vt, discord-sessions-prd-1-13)
+2018-02-24 20:12:38 | [INFO]    | Discordia 2.2.0
+2018-02-24 20:12:38 | [INFO]    | Connecting to Discord...
+2018-02-24 20:12:39 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 20:12:39 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 20:12:39 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 20:12:39 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-96w0)
+2018-02-24 20:12:40 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-96w0, discord-sessions-prd-1-7)
+2018-02-24 20:13:36 | [INFO]    | Discordia 2.2.0
+2018-02-24 20:13:36 | [INFO]    | Connecting to Discord...
+2018-02-24 20:13:37 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 20:13:37 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 20:13:37 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 20:13:37 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-r6l6)
+2018-02-24 20:13:37 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-r6l6, discord-sessions-prd-1-10)
+2018-02-24 20:44:32 | [INFO]    | Discordia 2.2.0
+2018-02-24 20:44:32 | [INFO]    | Connecting to Discord...
+2018-02-24 20:44:32 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 20:44:33 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 20:44:33 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 20:44:33 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-7st0)
+2018-02-24 20:44:33 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-7st0, discord-sessions-prd-1-14)
+2018-02-24 20:53:57 | [INFO]    | Discordia 2.2.0
+2018-02-24 20:53:57 | [INFO]    | Connecting to Discord...
+2018-02-24 20:53:57 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 20:53:57 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 20:53:58 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 20:53:58 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-x3nz)
+2018-02-24 20:53:58 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-x3nz, discord-sessions-prd-1-10)
+2018-02-24 22:41:47 | [INFO]    | Discordia 2.2.0
+2018-02-24 22:41:47 | [INFO]    | Connecting to Discord...
+2018-02-24 22:41:47 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 22:41:47 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 22:41:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 22:41:48 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-srg7)
+2018-02-24 22:41:48 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-srg7, discord-sessions-prd-1-8)
+2018-02-24 23:01:06 | [INFO]    | Discordia 2.2.0
+2018-02-24 23:01:06 | [INFO]    | Connecting to Discord...
+2018-02-24 23:01:06 | [INFO]    | Authenticated as shortbread#9312
+2018-02-24 23:01:06 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-24 23:01:07 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-24 23:01:07 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-d305)
+2018-02-24 23:01:07 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-d305, discord-sessions-prd-1-3)
+2018-02-25 01:46:08 | [INFO]    | Discordia 2.2.0
+2018-02-25 01:46:08 | [INFO]    | Connecting to Discord...
+2018-02-25 01:46:09 | [INFO]    | Authenticated as shortbread#9312
+2018-02-25 01:46:09 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-25 01:46:09 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-25 01:46:09 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-l3r0)
+2018-02-25 01:46:09 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-l3r0, discord-sessions-prd-1-10)
+2018-02-25 02:57:02 | [ERROR]   | 403 - FORBIDDEN : POST https://discordapp.com/api/v7/channels/414042424680382476/messages
+2018-02-25 17:11:48 | [INFO]    | Shard 0 : Disconnected
+2018-02-25 17:11:48 | [INFO]    | Shard 0 : Reconnecting after 936 ms...
+2018-02-25 17:11:49 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-25 17:11:49 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-xgft)
+2018-02-25 17:11:49 | [INFO]    | Shard 0 : Session invalidated, re-identifying...
+2018-02-25 17:11:51 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-xgft, discord-sessions-prd-1-17)
+2018-02-25 17:12:29 | [WARNING] | Shard 0 : Previous heartbeat not acknowledged
+2018-02-25 17:12:29 | [INFO]    | Shard 0 : Disconnected
+2018-02-25 17:12:29 | [INFO]    | Shard 0 : Reconnecting...
+2018-02-25 17:12:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-25 17:12:30 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-gngd)
+2018-02-25 17:12:30 | [INFO]    | Shard 0 : Received RESUMED (gateway-prd-main-gngd, discord-sessions-prd-1-17)
+2018-02-25 17:28:18 | [INFO]    | Discordia 2.2.0
+2018-02-25 17:28:18 | [INFO]    | Connecting to Discord...
+2018-02-25 17:28:19 | [INFO]    | Authenticated as shortbread#9312
+2018-02-25 17:28:19 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-25 17:28:23 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-25 17:28:23 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-kv5f)
+2018-02-25 17:28:23 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-kv5f, discord-sessions-prd-1-12)
+2018-02-25 17:28:51 | [INFO]    | Discordia 2.2.0
+2018-02-25 17:28:51 | [INFO]    | Connecting to Discord...
+2018-02-25 17:28:51 | [INFO]    | Authenticated as shortbread#9312
+2018-02-25 17:28:51 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-25 17:28:51 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-25 17:28:51 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-96w0)
+2018-02-25 17:28:52 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-96w0, discord-sessions-prd-1-16)
+2018-02-25 17:29:06 | [INFO]    | Discordia 2.2.0
+2018-02-25 17:29:06 | [INFO]    | Connecting to Discord...
+2018-02-25 17:29:07 | [INFO]    | Authenticated as shortbread#9312
+2018-02-25 17:29:07 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-25 17:29:07 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-25 17:29:07 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-pxv8)
+2018-02-25 17:29:08 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-pxv8, discord-sessions-prd-1-1)
+2018-02-25 17:29:36 | [ERROR]   | 400 - BAD REQUEST : POST https://discordapp.com/api/v7/channels/381899316048166923/messages
+2018-02-25 17:29:53 | [INFO]    | Discordia 2.2.0
+2018-02-25 17:29:53 | [INFO]    | Connecting to Discord...
+2018-02-25 17:29:54 | [INFO]    | Authenticated as shortbread#9312
+2018-02-25 17:29:54 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-25 17:29:54 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-25 17:29:54 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-87qx)
+2018-02-25 17:29:54 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-87qx, discord-sessions-prd-1-16)
+2018-02-25 17:30:15 | [INFO]    | Discordia 2.2.0
+2018-02-25 17:30:15 | [INFO]    | Connecting to Discord...
+2018-02-25 17:30:15 | [INFO]    | Authenticated as shortbread#9312
+2018-02-25 17:30:15 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-25 17:30:16 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-25 17:30:16 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-kv5f)
+2018-02-25 17:30:16 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-kv5f, discord-sessions-prd-1-13)
+2018-02-25 17:31:15 | [INFO]    | Discordia 2.2.0
+2018-02-25 17:31:15 | [INFO]    | Connecting to Discord...
+2018-02-25 17:31:15 | [INFO]    | Authenticated as shortbread#9312
+2018-02-25 17:31:15 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-25 17:31:15 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-25 17:31:15 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-kp9r)
+2018-02-25 17:31:15 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-kp9r, discord-sessions-prd-1-13)
+2018-02-25 17:31:50 | [INFO]    | Discordia 2.2.0
+2018-02-25 17:31:50 | [INFO]    | Connecting to Discord...
+2018-02-25 17:31:51 | [INFO]    | Authenticated as shortbread#9312
+2018-02-25 17:31:51 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-25 17:31:51 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-25 17:31:51 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-qrzk)
+2018-02-25 17:31:52 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-qrzk, discord-sessions-prd-1-7)
+2018-02-25 17:32:22 | [INFO]    | Discordia 2.2.0
+2018-02-25 17:32:22 | [INFO]    | Connecting to Discord...
+2018-02-25 17:32:22 | [INFO]    | Authenticated as shortbread#9312
+2018-02-25 17:32:22 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-25 17:32:23 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-25 17:32:23 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-96w0)
+2018-02-25 17:32:23 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-96w0, discord-sessions-prd-1-17)
+2018-02-25 17:33:16 | [INFO]    | Discordia 2.2.0
+2018-02-25 17:33:16 | [INFO]    | Connecting to Discord...
+2018-02-25 17:33:16 | [INFO]    | Authenticated as shortbread#9312
+2018-02-25 17:33:16 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-25 17:33:17 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-25 17:33:17 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-kv5f)
+2018-02-25 17:33:17 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-kv5f, discord-sessions-prd-1-5)
+2018-02-25 17:35:13 | [INFO]    | Discordia 2.2.0
+2018-02-25 17:35:13 | [INFO]    | Connecting to Discord...
+2018-02-25 17:35:14 | [INFO]    | Authenticated as shortbread#9312
+2018-02-25 17:35:14 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-25 17:35:14 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-25 17:35:14 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-nx9n)
+2018-02-25 17:35:14 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-nx9n, discord-sessions-prd-1-1)
+2018-02-25 17:35:51 | [INFO]    | Discordia 2.2.0
+2018-02-25 17:35:51 | [INFO]    | Connecting to Discord...
+2018-02-25 17:35:51 | [INFO]    | Authenticated as shortbread#9312
+2018-02-25 17:35:51 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-25 17:35:52 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-25 17:35:52 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-8d8b)
+2018-02-25 17:35:52 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-8d8b, discord-sessions-prd-1-3)
+2018-02-25 17:35:57 | [ERROR]   | 400 - BAD REQUEST : POST https://discordapp.com/api/v7/channels/381899316048166923/messages
+2018-02-25 17:36:15 | [INFO]    | Discordia 2.2.0
+2018-02-25 17:36:15 | [INFO]    | Connecting to Discord...
+2018-02-25 17:36:15 | [INFO]    | Authenticated as shortbread#9312
+2018-02-25 17:36:15 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-25 17:36:16 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-25 17:36:16 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-306h)
+2018-02-25 17:36:16 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-306h, discord-sessions-prd-1-11)
+2018-02-25 17:37:54 | [INFO]    | Discordia 2.2.0
+2018-02-25 17:37:54 | [INFO]    | Connecting to Discord...
+2018-02-25 17:37:54 | [INFO]    | Authenticated as shortbread#9312
+2018-02-25 17:37:54 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-25 17:37:55 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-25 17:37:55 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-7st0)
+2018-02-25 17:37:55 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-7st0, discord-sessions-prd-1-4)
+2018-02-25 17:38:59 | [INFO]    | Discordia 2.2.0
+2018-02-25 17:38:59 | [INFO]    | Connecting to Discord...
+2018-02-25 17:38:59 | [INFO]    | Authenticated as shortbread#9312
+2018-02-25 17:38:59 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-25 17:38:59 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-25 17:38:59 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-t5fq)
+2018-02-25 17:39:00 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-t5fq, discord-sessions-prd-1-10)
+2018-02-25 17:39:24 | [INFO]    | Discordia 2.2.0
+2018-02-25 17:39:24 | [INFO]    | Connecting to Discord...
+2018-02-25 17:39:25 | [INFO]    | Authenticated as shortbread#9312
+2018-02-25 17:39:25 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-25 17:39:25 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-25 17:39:25 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-gb45)
+2018-02-25 17:39:25 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-gb45, discord-sessions-prd-1-20)
+2018-02-25 17:39:59 | [INFO]    | Discordia 2.2.0
+2018-02-25 17:39:59 | [INFO]    | Connecting to Discord...
+2018-02-25 17:40:00 | [INFO]    | Authenticated as shortbread#9312
+2018-02-25 17:40:00 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-25 17:40:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-25 17:40:00 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-3vfg)
+2018-02-25 17:40:00 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-3vfg, discord-sessions-prd-1-8)
+2018-02-25 17:40:16 | [INFO]    | Discordia 2.2.0
+2018-02-25 17:40:16 | [INFO]    | Connecting to Discord...
+2018-02-25 17:40:16 | [INFO]    | Authenticated as shortbread#9312
+2018-02-25 17:40:16 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-25 17:40:16 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-25 17:40:16 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-1476)
+2018-02-25 17:40:16 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-1476, discord-sessions-prd-1-17)
+2018-02-25 17:41:14 | [INFO]    | Discordia 2.2.0
+2018-02-25 17:41:14 | [INFO]    | Connecting to Discord...
+2018-02-25 17:41:14 | [INFO]    | Authenticated as shortbread#9312
+2018-02-25 17:41:14 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-25 17:41:15 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-25 17:41:15 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-6m0b)
+2018-02-25 17:41:15 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-6m0b, discord-sessions-prd-1-1)
+2018-02-25 17:41:37 | [INFO]    | Discordia 2.2.0
+2018-02-25 17:41:37 | [INFO]    | Connecting to Discord...
+2018-02-25 17:41:38 | [INFO]    | Authenticated as shortbread#9312
+2018-02-25 17:41:38 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-25 17:41:38 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-25 17:41:38 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-nx9n)
+2018-02-25 17:41:39 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-nx9n, discord-sessions-prd-1-6)
+2018-02-25 17:42:04 | [INFO]    | Discordia 2.2.0
+2018-02-25 17:42:04 | [INFO]    | Connecting to Discord...
+2018-02-25 17:42:04 | [INFO]    | Authenticated as shortbread#9312
+2018-02-25 17:42:04 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-25 17:42:04 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-25 17:42:04 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-wv81)
+2018-02-25 17:42:05 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-wv81, discord-sessions-prd-1-5)
+2018-02-25 17:42:12 | [INFO]    | Discordia 2.2.0
+2018-02-25 17:42:12 | [INFO]    | Connecting to Discord...
+2018-02-25 17:42:12 | [INFO]    | Authenticated as shortbread#9312
+2018-02-25 17:42:12 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-25 17:42:13 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-25 17:42:13 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-cbl7)
+2018-02-25 17:42:13 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-cbl7, discord-sessions-prd-1-5)
+2018-02-25 17:42:31 | [INFO]    | Discordia 2.2.0
+2018-02-25 17:42:31 | [INFO]    | Connecting to Discord...
+2018-02-25 17:42:31 | [INFO]    | Authenticated as shortbread#9312
+2018-02-25 17:42:31 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-25 17:42:32 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-25 17:42:32 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-kw54)
+2018-02-25 17:42:32 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-kw54, discord-sessions-prd-1-5)
+2018-02-25 17:42:58 | [INFO]    | Discordia 2.2.0
+2018-02-25 17:42:58 | [INFO]    | Connecting to Discord...
+2018-02-25 17:42:58 | [INFO]    | Authenticated as shortbread#9312
+2018-02-25 17:42:58 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-25 17:42:58 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-25 17:42:58 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-1hxr)
+2018-02-25 17:42:59 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-1hxr, discord-sessions-prd-1-19)
+2018-02-25 17:44:12 | [INFO]    | Discordia 2.2.0
+2018-02-25 17:44:12 | [INFO]    | Connecting to Discord...
+2018-02-25 17:44:13 | [INFO]    | Authenticated as shortbread#9312
+2018-02-25 17:44:13 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-25 17:44:13 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-25 17:44:13 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-96w0)
+2018-02-25 17:44:13 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-96w0, discord-sessions-prd-1-15)
+2018-02-25 17:44:40 | [INFO]    | Discordia 2.2.0
+2018-02-25 17:44:40 | [INFO]    | Connecting to Discord...
+2018-02-25 17:44:41 | [INFO]    | Authenticated as shortbread#9312
+2018-02-25 17:44:41 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-25 17:44:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-25 17:44:41 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-cbl7)
+2018-02-25 17:44:41 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-cbl7, discord-sessions-prd-1-1)
+2018-02-25 17:45:00 | [INFO]    | Discordia 2.2.0
+2018-02-25 17:45:00 | [INFO]    | Connecting to Discord...
+2018-02-25 17:45:01 | [INFO]    | Authenticated as shortbread#9312
+2018-02-25 17:45:01 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-25 17:45:01 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-25 17:45:01 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-1hxr)
+2018-02-25 17:45:02 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-1hxr, discord-sessions-prd-1-1)
+2018-02-25 17:45:47 | [INFO]    | Discordia 2.2.0
+2018-02-25 17:45:47 | [INFO]    | Connecting to Discord...
+2018-02-25 17:45:47 | [INFO]    | Authenticated as shortbread#9312
+2018-02-25 17:45:47 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-25 17:45:47 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-25 17:45:47 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-87qx)
+2018-02-25 17:45:48 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-87qx, discord-sessions-prd-1-4)
+2018-02-25 17:46:58 | [INFO]    | Discordia 2.2.0
+2018-02-25 17:46:58 | [INFO]    | Connecting to Discord...
+2018-02-25 17:46:58 | [INFO]    | Authenticated as shortbread#9312
+2018-02-25 17:46:58 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-25 17:46:59 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-25 17:46:59 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-k05l)
+2018-02-25 17:46:59 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-k05l, discord-sessions-prd-1-11)
+2018-02-25 17:47:30 | [INFO]    | Discordia 2.2.0
+2018-02-25 17:47:30 | [INFO]    | Connecting to Discord...
+2018-02-25 17:47:30 | [INFO]    | Authenticated as shortbread#9312
+2018-02-25 17:47:30 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-25 17:47:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-25 17:47:30 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-gb45)
+2018-02-25 17:47:31 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-gb45, discord-sessions-prd-1-5)
+2018-02-25 17:47:41 | [INFO]    | Discordia 2.2.0
+2018-02-25 17:47:41 | [INFO]    | Connecting to Discord...
+2018-02-25 17:47:41 | [INFO]    | Authenticated as shortbread#9312
+2018-02-25 17:47:41 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-25 17:47:42 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-25 17:47:42 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-nx9n)
+2018-02-25 17:47:42 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-nx9n, discord-sessions-prd-1-2)
+2018-02-25 17:47:56 | [INFO]    | Discordia 2.2.0
+2018-02-25 17:47:56 | [INFO]    | Connecting to Discord...
+2018-02-25 17:47:57 | [INFO]    | Authenticated as shortbread#9312
+2018-02-25 17:47:57 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-25 17:48:01 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-25 17:48:01 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-sn1l)
+2018-02-25 17:48:01 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-sn1l, discord-sessions-prd-1-19)
+2018-02-25 17:48:05 | [ERROR]   | 400 - BAD REQUEST : POST https://discordapp.com/api/v7/channels/381899316048166923/messages
+2018-02-25 17:48:19 | [INFO]    | Discordia 2.2.0
+2018-02-25 17:48:19 | [INFO]    | Connecting to Discord...
+2018-02-25 17:48:19 | [INFO]    | Authenticated as shortbread#9312
+2018-02-25 17:48:19 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-25 17:48:20 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-25 17:48:20 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-7st0)
+2018-02-25 17:48:20 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-7st0, discord-sessions-prd-1-14)
+2018-02-25 17:50:04 | [INFO]    | Discordia 2.2.0
+2018-02-25 17:50:04 | [INFO]    | Connecting to Discord...
+2018-02-25 17:50:04 | [INFO]    | Authenticated as shortbread#9312
+2018-02-25 17:50:04 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-25 17:50:05 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-25 17:50:05 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-8d8b)
+2018-02-25 17:50:05 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-8d8b, discord-sessions-prd-1-8)
+2018-02-25 17:50:42 | [INFO]    | Discordia 2.2.0
+2018-02-25 17:50:42 | [INFO]    | Connecting to Discord...
+2018-02-25 17:50:43 | [INFO]    | Authenticated as shortbread#9312
+2018-02-25 17:50:43 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-25 17:50:44 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-25 17:50:44 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-d305)
+2018-02-25 17:50:44 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-d305, discord-sessions-prd-1-11)
+2018-02-25 17:52:28 | [INFO]    | Discordia 2.2.0
+2018-02-25 17:52:28 | [INFO]    | Connecting to Discord...
+2018-02-25 17:52:29 | [INFO]    | Authenticated as shortbread#9312
+2018-02-25 17:52:29 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-25 17:52:30 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-25 17:52:30 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-pwt8)
+2018-02-25 17:52:30 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-pwt8, discord-sessions-prd-1-10)
+2018-02-25 17:54:57 | [INFO]    | Discordia 2.2.0
+2018-02-25 17:54:57 | [INFO]    | Connecting to Discord...
+2018-02-25 17:54:57 | [INFO]    | Authenticated as shortbread#9312
+2018-02-25 17:54:57 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-25 17:54:57 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-25 17:54:57 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-xgft)
+2018-02-25 17:54:57 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-xgft, discord-sessions-prd-1-17)
+2018-02-25 17:55:12 | [INFO]    | Discordia 2.2.0
+2018-02-25 17:55:12 | [INFO]    | Connecting to Discord...
+2018-02-25 17:55:12 | [INFO]    | Authenticated as shortbread#9312
+2018-02-25 17:55:12 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-25 17:55:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-25 17:55:12 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-1tgc)
+2018-02-25 17:55:12 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-1tgc, discord-sessions-prd-1-16)
+2018-02-25 17:55:37 | [INFO]    | Discordia 2.2.0
+2018-02-25 17:55:37 | [INFO]    | Connecting to Discord...
+2018-02-25 17:55:37 | [INFO]    | Authenticated as shortbread#9312
+2018-02-25 17:55:37 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-25 17:55:37 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-25 17:55:37 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-3vfg)
+2018-02-25 17:55:38 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-3vfg, discord-sessions-prd-1-15)
+2018-02-25 17:56:33 | [INFO]    | Discordia 2.2.0
+2018-02-25 17:56:33 | [INFO]    | Connecting to Discord...
+2018-02-25 17:56:34 | [INFO]    | Authenticated as shortbread#9312
+2018-02-25 17:56:34 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-25 17:56:34 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-25 17:56:34 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-vxkk)
+2018-02-25 17:56:34 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-vxkk, discord-sessions-prd-1-13)
+2018-02-25 17:57:23 | [INFO]    | Discordia 2.2.0
+2018-02-25 17:57:23 | [INFO]    | Connecting to Discord...
+2018-02-25 17:57:24 | [INFO]    | Authenticated as shortbread#9312
+2018-02-25 17:57:24 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-25 17:57:24 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-25 17:57:24 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-gngd)
+2018-02-25 17:57:24 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-gngd, discord-sessions-prd-1-14)
+2018-02-25 17:57:41 | [INFO]    | Discordia 2.2.0
+2018-02-25 17:57:41 | [INFO]    | Connecting to Discord...
+2018-02-25 17:57:41 | [INFO]    | Authenticated as shortbread#9312
+2018-02-25 17:57:41 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-25 17:57:42 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-25 17:57:42 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-qrzk)
+2018-02-25 17:57:42 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-qrzk, discord-sessions-prd-1-7)
+2018-02-25 17:58:21 | [INFO]    | Discordia 2.2.0
+2018-02-25 17:58:21 | [INFO]    | Connecting to Discord...
+2018-02-25 17:58:21 | [INFO]    | Authenticated as shortbread#9312
+2018-02-25 17:58:21 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-25 17:58:23 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-25 17:58:23 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-vmtk)
+2018-02-25 17:58:23 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-vmtk, discord-sessions-prd-1-11)
+2018-02-25 17:59:16 | [INFO]    | Discordia 2.2.0
+2018-02-25 17:59:16 | [INFO]    | Connecting to Discord...
+2018-02-25 17:59:16 | [INFO]    | Authenticated as shortbread#9312
+2018-02-25 17:59:16 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-25 17:59:17 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-25 17:59:17 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-k05l)
+2018-02-25 17:59:18 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-k05l, discord-sessions-prd-1-20)
+2018-02-25 17:59:30 | [INFO]    | Discordia 2.2.0
+2018-02-25 17:59:30 | [INFO]    | Connecting to Discord...
+2018-02-25 17:59:30 | [INFO]    | Authenticated as shortbread#9312
+2018-02-25 17:59:30 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-25 17:59:31 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-25 17:59:31 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-qrzk)
+2018-02-25 17:59:31 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-qrzk, discord-sessions-prd-1-6)
+2018-02-25 18:00:00 | [INFO]    | Discordia 2.2.0
+2018-02-25 18:00:00 | [INFO]    | Connecting to Discord...
+2018-02-25 18:00:00 | [INFO]    | Authenticated as shortbread#9312
+2018-02-25 18:00:00 | [INFO]    | Launching shard 0 (1 out of 1)...
+2018-02-25 18:00:01 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2018-02-25 18:00:01 | [INFO]    | Shard 0 : Received HELLO (gateway-prd-main-dlcf)
+2018-02-25 18:00:01 | [INFO]    | Shard 0 : Received READY (gateway-prd-main-dlcf, discord-sessions-prd-1-2)

@@ -1,6 +1,6 @@
-return (server, content) ->
+return (message, content) ->
   sentence = ""
   for k, arg in pairs(content) do
     sentence = sentence .. " " .. arg
-  server\send(sentence)
+  message.channel\send(sentence)
 

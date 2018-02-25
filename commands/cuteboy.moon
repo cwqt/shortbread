@@ -1,2 +1,9 @@
 return (...) ->
-  select(1,...)\send("Sil is a cuteboy, yes he is!")
+  t = {}
+  for k,v in pairs(select(1,...).channel.members)
+    table.insert(t, v.name)
+  qtboy = t[math.random(#t)]
+  s = "**" .. qtboy .. "** is a cuteboy! Yes he is! (✿◠‿◠)"
+  if select(1,...).author.name == qtboy 
+    s = s .. "\nHey, that's you! :hearts:"
+  select(1,...).channel\send(s)
