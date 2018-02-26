@@ -11,6 +11,7 @@ SB.commands = {
   ["roll"]:     (...) -> require("commands.roll")(...),
   ["help"]:     (...) -> require("commands.help")(...),
   ["cblaw"]:    (...) -> require("commands.cblaw")(...),
+  ["truelove"]: (...) -> require("commands.truelove")(...),
   ["invalid"]:  (...) -> select(1, ...).channel\send("Invalid command!"),
 }
 

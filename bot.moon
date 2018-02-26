@@ -2,12 +2,14 @@
 
 require("moonscript")
 SB = require("shortbread")
-discordia = require('discordia')
+export discordia = require('discordia')
 secrets   = require("secrets")
 
 client = discordia.Client()
 client\on 'ready', ->
   print('Logged in as '.. client.user.username)
+  print(discordia.Color.fromRGB(255,50,50).value)
+  client\setGame("SC: " .. client.shardCount .. " | >help")
 
 client\on 'messageCreate', (message) ->
   -- Check if start of message is our prefix
@@ -26,5 +28,16 @@ client\on 'messageCreate', (message) ->
       SB.commands[c](message, a, e)
     else
       SB.commands["invalid"](message)
+
+client\on 'messageDelete', (message) ->
+  message.channel\send({
+    embed: {
+      color: 16724530,
+      title: message.author.name .. " deleted: " .. message.content
+    }
+  })
+
+-- client\on 'memberLeave', (member) ->
+  
 
 client\run('Bot ' .. secrets.TOKEN)
