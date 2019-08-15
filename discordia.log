@@ -1925,3 +1925,31 @@
 2018-02-26 14:23:24 | [ERROR]   | 403 - FORBIDDEN : POST https://discordapp.com/api/v7/channels/414047669124726807/messages
 2018-02-26 14:23:28 | [ERROR]   | 403 - FORBIDDEN : POST https://discordapp.com/api/v7/channels/414047669124726807/messages
 2018-02-26 14:37:36 | [ERROR]   | 403 - FORBIDDEN : POST https://discordapp.com/api/v7/channels/414047669124726807/messages
+2019-08-15 02:25:25 | [INFO]    | Discordia 2.7.0
+2019-08-15 02:25:25 | [INFO]    | Connecting to Discord...
+2019-08-15 02:25:25 | [INFO]    | Authenticated as shortbread#9312
+2019-08-15 02:25:26 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-15 02:25:26 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-15 02:25:26 | [INFO]    | Shard 0 : Received HELLO
+2019-08-15 02:25:26 | [INFO]    | Shard 0 : Received READY
+2019-08-15 02:28:49 | [INFO]    | Discordia 2.7.0
+2019-08-15 02:28:49 | [INFO]    | Connecting to Discord...
+2019-08-15 02:28:49 | [INFO]    | Authenticated as shortbread#9312
+2019-08-15 02:28:49 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-15 02:28:50 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-15 02:28:50 | [INFO]    | Shard 0 : Received HELLO
+2019-08-15 02:28:50 | [INFO]    | Shard 0 : Received READY
+2019-08-15 02:29:40 | [INFO]    | Discordia 2.7.0
+2019-08-15 02:29:40 | [INFO]    | Connecting to Discord...
+2019-08-15 02:29:40 | [INFO]    | Authenticated as shortbread#9312
+2019-08-15 02:29:40 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-15 02:29:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-15 02:29:41 | [INFO]    | Shard 0 : Received HELLO
+2019-08-15 02:29:41 | [INFO]    | Shard 0 : Received READY
+2019-08-15 02:30:17 | [INFO]    | Discordia 2.7.0
+2019-08-15 02:30:17 | [INFO]    | Connecting to Discord...
+2019-08-15 02:30:17 | [INFO]    | Authenticated as shortbread#9312
+2019-08-15 02:30:17 | [INFO]    | Launching shard 0 (1 out of 1)...
+2019-08-15 02:30:17 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2019-08-15 02:30:17 | [INFO]    | Shard 0 : Received HELLO
+2019-08-15 02:30:18 | [INFO]    | Shard 0 : Received READY

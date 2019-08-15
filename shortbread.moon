@@ -1,5 +1,5 @@
 SB = {}
-SB.prefix = "!"
+SB.prefix = "\\"
 SB.START_TIME = os.clock()
 
 SB.commands = {
@@ -12,6 +12,7 @@ SB.commands = {
   ["help"]:     (...) -> require("commands.help")(...),
   ["cblaw"]:    (...) -> require("commands.cblaw")(...),
   ["truelove"]: (...) -> require("commands.truelove")(...),
+  ["casspost"]: (...) -> require("commands.markov")(...),
   ["invalid"]:  (...) -> select(1, ...).channel\send("Invalid command!"),
 }
 

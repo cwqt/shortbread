@@ -1,3 +1,5 @@
 mkdir src/
 moonc -t src .
-luvit src/bot.lua
+cp data.json src/data.json
+cd src
+luvit bot.lua

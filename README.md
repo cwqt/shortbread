@@ -3,6 +3,14 @@ Just a little experiment.
 
 All commands are contained within `commands/` and follow the following structure:
 
+```bash
+luarocks install moonscript
+luarocks install rxi-json-lua
+brew install luvit
+lit install SinisterRectus/discordia
+
+```
+
 ```moonscript
 -- myCommand.moon
 return (server, content) ->
@@ -29,3 +37,18 @@ luvit src/bot.lua
 secrets = { TOKEN: "your_token_here" }
 return secrets
 ```
+
+## casspost
+
+`data.json`
+
+```json
+[
+	"some message",
+	"that i wrote a long time ago",
+	":("
+]
+```
+
+`casspost train`
+`casspost post

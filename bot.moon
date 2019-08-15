@@ -1,15 +1,15 @@
 -- https://discordapp.com/oauth2/authorize?&client_id=381831572573257728&scope=bot&permissions=0
-
-require("moonscript")
-SB = require("shortbread")
+SB               = require('./shortbread')
 export discordia = require('discordia')
-secrets   = require("secrets")
+export inspect   = require("inspect")
+export json      = require("rxi-json-lua")
+secrets          = require('./secrets')
 
 client = discordia.Client()
 client\on 'ready', ->
   print('Logged in as '.. client.user.username)
-  print(discordia.Color.fromRGB(255,50,50).value)
-  client\setGame("SC: " .. client.shardCount .. " | >help")
+  -- print(discordia.Color.fromRGB(255,50,50).value)
+  client\setGame("SC: " .. client.shardCount .. " | !help")
 
 client\on 'messageCreate', (message) ->
   -- Check if start of message is our prefix
