@@ -1,15 +1,20 @@
 # shortbread
 Just a little experiment.
 
-All commands are contained within `commands/` and follow the following structure:
+## Installation
 
 ```bash
 luarocks install moonscript
 luarocks install rxi-json-lua
 brew install luvit
 lit install SinisterRectus/discordia
-
+sh build.sh
 ```
+I probably missed some things but you should just use your brain and figure it out.
+
+---
+
+All commands are contained within `commands/` and follow the following structure:
 
 ```moonscript
 -- myCommand.moon
@@ -20,35 +25,20 @@ return (server, content) ->
   message = content[n]
   server\send(message)
 ```
+
 and then in `shortbread.moon`
+
 ```moonscript
 SB.commands = {
   ["myCommand"]: (...) -> require("commands.myCommand")(...),
   -- ...
 ```
+---
 
-```bash
-moonc -t src .
-luvit src/bot.lua
-```
+Bot requires a token from developers.discord.com 
 
 ```moonscript
 -- secrets.lua
 secrets = { TOKEN: "your_token_here" }
 return secrets
 ```
-
-## casspost
-
-`data.json`
-
-```json
-[
-	"some message",
-	"that i wrote a long time ago",
-	":("
-]
-```
-
-`casspost train`
-`casspost post
